@@ -5,11 +5,11 @@ Um projeto em C# para gerenciar compromissos com persistência em JSON, seguindo
 
 🛠️ Funcionalidades
 
-Cadastro de usuários, compromissos, participantes e locais.
+- Cadastro de usuários, compromissos, participantes e locais.
 
-Validações de data, descrição e capacidade.
+- Validações de data, descrição e capacidade.
 
-Persistência automática em arquivo JSON (agenda.json).
+- Persistência automática em arquivo JSON (agenda.json).
 
 
 📂 Estrutura do Projeto
