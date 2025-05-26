@@ -2,12 +2,15 @@
 
 Um projeto em C# para gerenciar compromissos com persistência em JSON, seguindo os princípios de Orientação a Objetos.
 
+
 🛠️ Funcionalidades
+
 Cadastro de usuários, compromissos, participantes e locais.
 
 Validações de data, descrição e capacidade.
 
 Persistência automática em arquivo JSON (agenda.json).
+
 
 📂 Estrutura do Projeto
 /Models
@@ -20,12 +23,14 @@ Persistência automática em arquivo JSON (agenda.json).
   RepositorioCompromissos.cs  
 Program.cs            
 
+
 🔧 Como Executar
 Pré-requisitos:
 
 - .NET 6+
 
 - VS Code (ou outra IDE)
+
 
 🔃 Fluxo do programa:
 
@@ -34,6 +39,7 @@ Pré-requisitos:
 2- Use o menu interativo para adicionar/listar compromissos.
 
 3- Os dados são salvos automaticamente em agenda.json.
+
 
 👩‍💻 Feito por:
 - Mariana Veiga Dos Santos
