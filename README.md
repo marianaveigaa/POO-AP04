@@ -23,13 +23,16 @@ Program.cs
 🔧 Como Executar
 Pré-requisitos:
 
-.NET 6+
-VS Code (ou outra IDE)
+- .NET 6+
+
+- VS Code (ou outra IDE)
 
 🔃 Fluxo do programa:
 
 1- Insira seu nome para criar/recuperar um usuário.
+
 2- Use o menu interativo para adicionar/listar compromissos.
+
 3- Os dados são salvos automaticamente em agenda.json.
 
 👩‍💻 Feito por:
