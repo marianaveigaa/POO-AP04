@@ -13,13 +13,14 @@ Um projeto em C# para gerenciar compromissos com persistência em JSON, seguindo
 
 
 📂 Estrutura do Projeto
-/Models
+
+/Modelos
   Usuario.cs          
   Compromisso.cs      
   Participante.cs    
   Anotacao.cs        
   Local.cs          
-/Persistence
+/Persistencia
   RepositorioCompromissos.cs  
 Program.cs            
 
